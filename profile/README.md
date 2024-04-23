@@ -50,6 +50,9 @@
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
   
 ---
+### ⚙️아키텍처
+<p align="center"><img src="https://github.com/T2-Papillon/.github/assets/149090519/974cc00c-5c4f-4af7-9601-a1d8f3c0f96e"></p>
+
 
 
 ## 팀 소개

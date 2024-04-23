@@ -51,7 +51,7 @@
   
 ---
 ### ⚙️아키텍처
-<p align="center"><img src="https://github.com/T2-Papillon/.github/assets/149090519/974cc00c-5c4f-4af7-9601-a1d8f3c0f96e"></p>
+<p align="center"><img src="https://github.com/T2-Papillon/.github/assets/149090519/974cc00c-5c4f-4af7-9601-a1d8f3c0f96e"></p><br /><br />
 
 
 

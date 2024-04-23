@@ -7,6 +7,7 @@
 - 테스트 계정
   - ID : test@boogle.com
   - PW : 1234
+- PC 크롬 브라우저, Mobile 안드로이드에 최적화
 ---
 ### 🍏주제
 - 효율적인 업무를 위한 일정 관리 시스템
@@ -16,6 +17,8 @@
 - Papplan에서 개발한 이 일정관리 시스템은 Boogle 회사의 업무 효율성을 극대화하기 위해 설계되었습니다. 이 시스템은 강력한 프로젝트 관리 기능과 사용자 친화적인 인터페이스를 제공하며, 사용자의 다양한 요구에 부응합니다.
 ---
 ### 🐛핵심 기능
+<p align="center"><img src="https://github.com/T2-Papillon/.github/assets/149090519/16358056-f512-459e-a2c1-9b0c56126b31"></p>
+
 1. 프로젝트 관리
     - 사용자는 새 프로젝트를 생성하고 기존 프로젝트에 대한 상세 업무를 추가, 수정, 삭제 및 조회할 수 있습니다.
 2. 프로젝트 목록 페이지
@@ -51,14 +54,16 @@
 
 ## 팀 소개
 
-### 🎭Team Role
+### 🎭역할
   
 | **Project Manager** | **Tech Leader** | **Agile Coach** |  **Git Manager** |
 | :------: |  :------: | :------: | :------: |
 | 🐱 [고라희](https://github.com/raheego) | 🐺 [최원규](https://github.com/choi3179) | 🐹 [우지영](https://github.com/Afresh2) | 🐷 [김단아](https://github.com/dana096) |
 
 ---
-
+### 📆일정
+- 2024.03.04 ~ 2024.04.25 
+---
 ### 🎯목표
 - 팀 목표 : 1일 1커밋 - 소통과 화합이 제일이다
 - 개인목표
@@ -118,7 +123,6 @@
 - 주간회의 📃 : 매주 금요일 퇴근전, 이번주 진행상황 및 차주 계획 수립 > [주간회의록](https://docs.google.com/spreadsheets/d/1LxBIe_qLsjBstcCfMXEl7XtWSs1kDsXaSFxpzV6cwCk/edit#gid=1854730743)
 - Tea Time ☕ : 월~금 오후 2시
 ---
-
 ### 📜팀문서
 - [전체문서모음](https://docs.google.com/spreadsheets/d/15cNpF7WvBuCEpo1JbXddN155jl0oJ3iLvKyP7othMbc/edit#gid=0)
 - [프로젝트 기획서](https://drive.google.com/drive/folders/1HGCGV0myYqw53oVy7QDW4aFb6HHR7ZII)

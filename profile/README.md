@@ -2,41 +2,56 @@
 **빠**지지 말고 **삐**지지 말고 **용**서하며 프로젝트 하자!
 <br /><br /><br />
 
-## 🧩개요
-- Topic : 효율적인 업무를 위한 일정 관리 시스템
-- Role
+## 프로젝트 소개
+### ☘️배포URL : https://papplan.shop
+- 테스트 계정
+  - ID : test@boogle.com
+  - PW : 1234
+---
+### 🍏주제
+- 효율적인 업무를 위한 일정 관리 시스템
+---
+### 🌿개요
+✅Papplan 일정관리 시스템: Boogle사 맞춤형 솔루션✅
+- Papplan에서 개발한 이 일정관리 시스템은 Boogle 회사의 업무 효율성을 극대화하기 위해 설계되었습니다. 이 시스템은 강력한 프로젝트 관리 기능과 사용자 친화적인 인터페이스를 제공하며, 사용자의 다양한 요구에 부응합니다.
+---
+### 🐛핵심 기능
+1. 프로젝트 관리
+    - 사용자는 새 프로젝트를 생성하고 기존 프로젝트에 대한 상세 업무를 추가, 수정, 삭제 및 조회할 수 있습니다.
+2. 프로젝트 목록 페이지
+    - 로그인한 사용자는 자신이 참여하는 프로젝트를 진행 상태별로 확인할 수 있으며, 프로젝트명, PM, 참여자를 기준으로 프로젝트를 검색할 수 있습니다.
+    - 프로젝트명 클릭 시 상세 페이지로 이동합니다.
+3. 프로젝트 상세 페이지
+    - 프로젝트에 대한 정보를 확인하고, 업무 관련 CRUD 작업을 수행할 수 있습니다.
+    - 업무명이나 담당자명으로 업무를 검색하고, 진행 상태별 필터링 및 업무 정렬이 가능합니다.
+4. 통합 검색 페이지
+    - 로그인한 사용자와 관련 없이 전체 프로젝트 목록이 표시됩니다.
+    - 프로젝트 검색은 진행 상태별 필터링과 최신순, 우선순위순으로 정렬이 가능합니다.
+5. 프로젝트 통계 페이지
+    - 각 프로젝트의 성과와 진행 상황을 분석할 수 있습니다.
+6. 개인 프로필 페이지
+    - 사용자의 참여 프로젝트 및 담당 업무 관련 통계를 다른 사용자와 공유할 수 있습니다.
+
+
+## 팀 소개
+
+### 🎭Team Role
   
 | **Project Manager** | **Tech Leader** | **Agile Coach** |  **Git Manager** |
 | :------: |  :------: | :------: | :------: |
 | 🐱 [고라희](https://github.com/raheego) | 🐺 [최원규](https://github.com/choi3179) | 🐹 [우지영](https://github.com/Afresh2) | 🐷 [김단아](https://github.com/dana096) |
 
-<br /><br />
+---
 
-## 🪄 기술 스택
- IDE <br />
- ![intellij](https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white) <br />
- DB <br /> 
-![mariaDB](https://img.shields.io/badge/mariadb-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)  
- BACKEND<br />
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![SpringBoot JPA](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  ![apachmaven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white) ![Swagger](https://img.shields.io/badge/swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white)   <br />
- FRONTEND<br />
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white) <br />
-버전 관리<br />
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br />
-협업<br />
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)<br /><br /><br />
-
-
-## 🎯목표
+### 🎯목표
 - 팀 목표 : 1일 1커밋 - 소통과 화합이 제일이다
 - 개인목표
      - 라희 : 문제를 파악하고 대안을 제시할 수 있는 마인드를 갖추기
      - 원규 : 프로젝트 완성도 중요하지만 남길 수 있는 결과물을 만들고 정리하기
      - 지영 : 취업준비 할 때 활용할 수 있도록 프로젝트 과정을 git에 잘 정리하기
      - 단아 : GIT을 잘 활용하여 프로젝트의 일정과 과정을 명확하고 투명하게 관리하기
-<br /><br /><br />
-
-## 🛠️Ground Rule
+---
+### 🛠️Ground Rule
 - 협력과 효율성을 극대화하기 위한 규칙
      <details>
      <summary>살펴보기</summary>
@@ -82,11 +97,27 @@
      <br /> 
      * 기타 <br /> 
      팀끼리 과자 나눠주기  <br /> 
-
-
-<br /><br /><br />
-
-## 📜팀문서
+---
+### 🎉CheerUp! 
+- 주간회의 📃 : 매주 금요일 퇴근전, 이번주 진행상황 및 차주 계획 수립
+- Tea Time ☕ : 월~금 오후 2시
+---
+### 🪄 기술 스택
+ IDE <br />
+ ![intellij](https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white) <br />
+ DB <br /> 
+![mariaDB](https://img.shields.io/badge/mariadb-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)  
+ BACKEND<br />
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![SpringBoot JPA](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  ![apachmaven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white) ![Swagger](https://img.shields.io/badge/swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white)   <br />
+ FRONTEND<br />
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white) <br />
+버전 관리<br />
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br />
+협업<br />
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+  
+---
+### 📜팀문서
 - [전체문서모음](https://docs.google.com/spreadsheets/d/15cNpF7WvBuCEpo1JbXddN155jl0oJ3iLvKyP7othMbc/edit#gid=0)
 - [프로젝트 기획서](https://drive.google.com/drive/folders/1HGCGV0myYqw53oVy7QDW4aFb6HHR7ZII)
 - [요구사항 명세서](https://docs.google.com/spreadsheets/d/1q7Ys4uEk6kUjWRXpIjohjfTJd68dlBrw/edit?rtpof=true)
@@ -97,11 +128,8 @@
 - [QA](https://docs.google.com/spreadsheets/d/1age48Wu5Tg7X5qgT8ET45NPl03ru6mLorhL6J9HNfYQ/edit#gid=0)
 - [단위테스트](https://docs.google.com/spreadsheets/d/17wYjXBiFQ-jl3SZgHhi9gKUT-NIXp7unK-76rr62E0E/edit#gid=0)
 - [통합테스트](https://docs.google.com/spreadsheets/d/1Fj09_RMHY1rGFmoUmtdIRYAKTFMRFnQxMGGEScHeUuU/edit?hl=ko#gid=0)
-<br /><br /><br />
 
-## 🎉CheerUp! 
-- 주간회의 📃 : 매주 금요일 퇴근전, 이번주 진행상황 및 차주 계획 수립
-- Tea Time ☕ : 월~금 오후 2시
+
 
 
 <!--

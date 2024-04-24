@@ -1,4 +1,6 @@
 # [T2] Papillon빠삐용
+![로그인 로그아웃GIF](https://github.com/T2-Papillon/.github/assets/149090519/970e7886-9a2c-4392-bf05-b9dfdc5150ce)
+
 **빠**지지 말고 **삐**지지 말고 **용**서하며 프로젝트 하자!
 <br /><br /><br />
 

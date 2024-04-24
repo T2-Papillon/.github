@@ -4,6 +4,7 @@
 
 ## 프로젝트 소개
 ### ☘️배포URL : https://papplan.shop
+- 당신의 업무를 위한 강력하고 쉬운 서포터, papplan
 - 테스트 계정
   - ID : test@boogle.com
   - PW : 1234
